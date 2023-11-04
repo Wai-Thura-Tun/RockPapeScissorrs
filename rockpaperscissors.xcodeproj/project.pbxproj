@@ -11,6 +11,7 @@
 		06C4FFCB2AF56CD6000D12E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C4FFCA2AF56CD6000D12E2 /* ContentView.swift */; };
 		06C4FFCD2AF56CDA000D12E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06C4FFCC2AF56CDA000D12E2 /* Assets.xcassets */; };
 		06C4FFD02AF56CDA000D12E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06C4FFCF2AF56CDA000D12E2 /* Preview Assets.xcassets */; };
+		06C4FFD92AF5CF7B000D12E2 /* CircleTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C4FFD82AF5CF7B000D12E2 /* CircleTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		06C4FFCA2AF56CD6000D12E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		06C4FFCC2AF56CDA000D12E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		06C4FFCF2AF56CDA000D12E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		06C4FFD82AF5CF7B000D12E2 /* CircleTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				06C4FFC82AF56CD6000D12E2 /* rockpaperscissorsApp.swift */,
+				06C4FFD82AF5CF7B000D12E2 /* CircleTextView.swift */,
 				06C4FFCA2AF56CD6000D12E2 /* ContentView.swift */,
 				06C4FFCC2AF56CDA000D12E2 /* Assets.xcassets */,
 				06C4FFCE2AF56CDA000D12E2 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				06C4FFCB2AF56CD6000D12E2 /* ContentView.swift in Sources */,
 				06C4FFC92AF56CD6000D12E2 /* rockpaperscissorsApp.swift in Sources */,
+				06C4FFD92AF5CF7B000D12E2 /* CircleTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
